@@ -5,4 +5,4 @@ SELECT * FROM customers WHERE customer_lastname = 'Smith'; -- Outcome is an empt
 
 SELECT * FROM customers WHERE customer_lastname = 'Jones';
 
-SELECT * FROM customers WHERE customer_lastname != 'Jones';
+SELECT * FROM customers WHERE customer_lastname != 'Scott';
